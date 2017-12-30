@@ -1,0 +1,14 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+int a,b,c,d;
+clrscr();
+
+a=40;
+b=20;
+c=a+b;
+d=a+b+c;
+printf("The addittion of Two Numbers");
+getche();
