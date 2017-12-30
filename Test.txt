@@ -6,7 +6,7 @@ main()
 int a,bc,;
 clrscr();
 
-a=10;
+a=40;
 b=20;
 c=a+b;
 printf("The addittion of Two Numbers");
