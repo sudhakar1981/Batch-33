@@ -3,11 +3,19 @@
 
 main()
 {
-int a,b,c,d;
+<<<<<<< HEAD
+int a,b,c,d,e,f;
+=======
+int a,b,c,d,e;
+>>>>>>> b58cc4246bd827abc19e52cbe8e9afdc5b668f31
 clrscr();
-
-a=10;
+noijoicja
+a=40;
 b=20;
 c=a+b;
+<<<<<<< HEAD
+d=a+b+c;
+=======
+>>>>>>> 69f024211b568b889bf14023317491124562998d
 printf("The addittion of Two Numbers");
 getche();
