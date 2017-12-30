@@ -1,0 +1,13 @@
+#include<stdio.h>
+#include<conio.h>
+
+main()
+{
+int a,bc,;
+clrscr();
+
+a=10;
+b=20;
+c=a+b;
+printf("The addittion of Two Numbers");
+getche();
