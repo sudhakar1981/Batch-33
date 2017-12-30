@@ -3,7 +3,7 @@
 
 main()
 {
-int a,bc,;
+int a,b,c,d;
 clrscr();
 
 a=10;
