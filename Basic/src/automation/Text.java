@@ -26,7 +26,7 @@ public void m() throws InterruptedException {
 		
 		dr.get("https://www.google.co.in/search?q=facebook&ie=utf-8&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&ei=OYjcWZrHMMOL8Qet8qfAAQ");
 		
-		List<WebElement> list=dr.findElements(By.tagName("a"));
+		List<WebElement> list=dr.findElements(By.tagName("abcs"));
 		
 		for(int i=0;i>=0;i++) {
 			
