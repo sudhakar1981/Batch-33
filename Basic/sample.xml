@@ -1,0 +1,8 @@
+<suite name="s3">
+	<test name="t2">
+		<classes>
+			<class name="pack1.A" />
+			
+		</classes>
+	</test>
+</suite>
